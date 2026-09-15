@@ -1,4 +1,5 @@
- export type SiteConfig = typeof siteConfig
+
+export type SiteConfig = typeof siteConfig
 
 export const siteConfig = {
   name: "EigenLayer AVS Node Performance Tracker",
